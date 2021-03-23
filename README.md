@@ -12,4 +12,4 @@ Kit pour commencer un projet symfony avec Docker et docker compose
   
 4. ## sudo chown -R $USER ./
   
-  ## Une fois l’installation terminée, en vous rendant à l’adresse http://127.0.0.1:8741/, vous devriez voir la page standard d’un nouve
+  ## Une fois l’installation terminée, en vous rendant à l’adresse http://127.0.0.1:8741/, vous devriez voir la page standard. Pour entrer dans le shell du conteneur “www”. docker exec -it www_docker_symfony bash
